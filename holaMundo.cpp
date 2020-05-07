@@ -25,7 +25,7 @@ int main()
     cin >> numero2;
 
     //Se muestra el resultado.
-    cout << numero1 << " + " << numero2 << " = " << sqrt(numero1)<< numero1 + numero2;
+    cout << numero1 << " + " << numero2 << " = " << numero1 + numero2;
 
     cout<< "\n ingresa tu nombre: \n";
     cin>>nom;

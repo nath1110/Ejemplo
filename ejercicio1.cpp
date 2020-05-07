@@ -10,7 +10,7 @@ int main(){
 
     string nombre="Nathaly";
 
-    cout<<nombre + ", el resultado es: "<< suma;
-    
+    cout<<"Nathaly , el resultado es :"+ suma;
+
     return 0;
 }
